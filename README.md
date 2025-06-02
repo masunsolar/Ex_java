@@ -36,3 +36,23 @@ busca da existência de um nó “x” que contém e retorne o nó em
 questão. Tal função deve funcionar para os dois tipos de listas com
 apontadores (simples e duplamente encadeada)  
 [Vasculhar listas](https://github.com/masunsolar/Ex_java/blob/main/src/findX.java).
+
+---
+
+## Atividade 5 - Lista Duplamente Encadeada
+
+1- Utilizando o conceito de Lista Duplamente Encadeada, escreva uma função que percorra uma lista de valores inteiros e retorne uma nova lista que tenha apenas números ímpares.
+
+---
+
+2- Utilizando o conceito de Lista Duplamente Encadeada, escreva uma função que inverta a ordem dos elementos na lista, modificando os ponteiros próximo e anterior.
+
+---
+
+3- Escreva uma função que concatene duas listas duplamente encadeadas
+
+---
+
+4- Escreva uma função que compare os conteúdos de duas listas duplamente encadeadas e retorne uma outra lista apenas com os elementos que não estão presentes em uma das listas, mas na outra não. Assuma que não acontecem repetições de elementos internamente a algumas das listas.
+
+[Atividade 5](https://github.com/masunsolar/Ex_java/blob/main/src/Atv_5.java).
